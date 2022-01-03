@@ -1,6 +1,6 @@
 body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: rgb(141, 93, 93);
+    background-color: rgb(63, 88, 88);
 }
 header{
     color: white;
@@ -39,10 +39,12 @@ div{
 button{
     font-size: 17px;
     border-radius: 4px;
-    background-color: rgba(141, 93, 93, 0.753);
+    background-color: rgba(42, 58, 58, 0.623);
     color: white;
 }
 
-.btn{
-    margin: auto;
+
+footer{
+    text-align: center;
+    font-family: cursive;
 }
